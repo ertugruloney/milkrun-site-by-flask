@@ -2,15 +2,15 @@
 
 ## Project Purpose
 
-```
+
 milkrun system created to regulate the daily material flow to the factory and to minimize the cost
-```
+
 ## Technical Design
-```
+
 Mysql was used as the database built on the system flask.
-```
+
 ## System Description
-```
+
 There are 2 types of users in the system:
 
 first: suppliers
@@ -18,7 +18,7 @@ The suppliers enter the product's readiness information into the system, for exa
 
 second: factory
 The factory examines and approves the deliveries entered into the system by the suppliers, and also enters the information that the delivery will be received thanks to the artificial intelligence-based vehicle routing system working at the back.
-```
+
 
 <img src="./images/image_original.png" width="300">
 ## used tech
